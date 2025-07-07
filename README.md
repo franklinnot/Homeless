@@ -44,14 +44,13 @@ Una aplicación de escritorio desarrollada en C# Windows Forms que facilita el a
 
 ## 🏗️ Arquitectura del Proyecto
 
-Homeless/
-├── 1.Home.cs # Formulario principal de entrada
-├── 1.Home.Designer.cs # Diseño UI del formulario principal
-├── 2.Services.cs # Formulario de selección de servicios
-├── 2.Services.Designer.cs # Diseño UI de servicios
-├── Program.cs # Punto de entrada de la aplicación
-└── Properties/ # Recursos y configuración
-
+Homeless/  
+├── 1.Home.cs              # Formulario principal de entrada  
+├── 1.Home.Designer.cs     # Diseño UI del formulario principal    
+├── 2.Services.cs          # Formulario de selección de servicios  
+├── 2.Services.Designer.cs # Diseño UI de servicios  
+├── Program.cs             # Punto de entrada de la aplicación  
+└── Properties/            # Recursos y configuración  
 
 ## 🌍 Países Soportados
 
